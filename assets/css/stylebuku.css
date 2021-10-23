@@ -18,6 +18,7 @@ body{
     color: #fff;
 }
 #wrapper header nav{
+
     float: right;
     margin-top: 50px;
 }
@@ -47,4 +48,4 @@ footer a{
 }
 section{
     padding: 20px;
-} 
+}
