@@ -1,3 +1,6 @@
+<link rel="stylesheet" type="text/css" href="<?php echo base_url() 
+?>assets/css/stylebuku.css">
+
 <section>
     <h1><?php echo $judul ?></h1>
         <p align=’justify’>Pada pengertian codeigniter di atas tadi di jelaskan bahwa codeignite menggunakan metode MVC. Apa ituMVC? Kita juga harus mengetahui apa itu MVC sebelum masuk dan lebih jauh dalam belajar codeigniter.</p>
